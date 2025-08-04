@@ -1,4 +1,4 @@
-## Can LMs 
+# Can Language Models Handle a Non-Gregorian Calendar?
 This repository contains code and data for the paper: 
 
 ## Calendar conversion
