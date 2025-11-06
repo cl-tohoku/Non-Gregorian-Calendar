@@ -1,0 +1,40 @@
+{
+  "1": {
+    "Full Match": 0.0059,
+    "Near Mismatch": 0.0417,
+    "Era match": 0.2242,
+    "Wareki Format Match": 0.7283,
+    "Year Format Match": 0.0008,
+    "Other Mismatch": 0.0,
+    "total": 1200
+  },
+  "2": {
+    "Full Match": 0.0067,
+    "Near Mismatch": 0.0358,
+    "Era match": 0.155,
+    "Wareki Format Match": 0.8025,
+    "Year Format Match": 0.0033,
+    "Other Mismatch": 0.0,
+    "total": 1200
+  },
+  "3": {
+    "Full Match": 0.0008,
+    "Near Mismatch": 0.0017,
+    "Era match": 0.02,
+    "Wareki Format Match": 0.9775,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0,
+    "total": 1200
+  },
+  "prompt_avg": {
+    "Full Match": 0.0045,
+    "Near Mismatch": 0.0264,
+    "Era match": 0.1331,
+    "Wareki Format Match": 0.8361,
+    "Year Format Match": 0.0014,
+    "Other Mismatch": 0.0,
+    "total": 3600,
+    "model": "Llama-2-13b-hf",
+    "prompt_number": "prompt_avg"
+  }
+}

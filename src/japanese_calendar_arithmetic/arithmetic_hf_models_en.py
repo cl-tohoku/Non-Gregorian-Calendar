@@ -105,7 +105,6 @@ def wareki_to_english_label_with_macron(date: datetime):
     return "Unknown"
 
 
-# ====== モデルごとにループ ======
 for model_name in model_names:
     print(f"\n=== Starting model: {model_name} ===")
 

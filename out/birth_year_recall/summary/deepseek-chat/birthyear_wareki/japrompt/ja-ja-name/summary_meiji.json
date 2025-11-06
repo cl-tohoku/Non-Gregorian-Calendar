@@ -1,0 +1,49 @@
+{
+  "1": {
+    "Full Match": 0.41,
+    "Near Mismatch": 0.1233,
+    "Era match": 0.1267,
+    "Wareki Format Match": 0.2433,
+    "Year Format Match": 0.0033,
+    "Other Mismatch": 0.0967,
+    "total": 300,
+    "model": "deepseek-chat",
+    "prompt_number": 1,
+    "era": "meiji"
+  },
+  "2": {
+    "Full Match": 0.4033,
+    "Near Mismatch": 0.1033,
+    "Era match": 0.1467,
+    "Wareki Format Match": 0.2633,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0833,
+    "total": 300,
+    "model": "deepseek-chat",
+    "prompt_number": 2,
+    "era": "meiji"
+  },
+  "3": {
+    "Full Match": 0.3933,
+    "Near Mismatch": 0.1467,
+    "Era match": 0.16,
+    "Wareki Format Match": 0.2167,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0833,
+    "total": 300,
+    "model": "deepseek-chat",
+    "prompt_number": 3,
+    "era": "meiji"
+  },
+  "prompt_avg": {
+    "Full Match": 0.4022,
+    "Near Mismatch": 0.1244,
+    "Era match": 0.1445,
+    "Wareki Format Match": 0.2411,
+    "Year Format Match": 0.0011,
+    "Other Mismatch": 0.0878,
+    "model": "deepseek-chat",
+    "era": "meiji",
+    "total": 900
+  }
+}

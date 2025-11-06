@@ -1,0 +1,40 @@
+{
+  "1": {
+    "Full Match": 0.0433,
+    "Near Mismatch": 0.1625,
+    "Era match": 0.3642,
+    "Wareki Format Match": 0.3517,
+    "Year Format Match": 0.0458,
+    "Other Mismatch": 0.0442,
+    "total": 1200
+  },
+  "2": {
+    "Full Match": 0.0392,
+    "Near Mismatch": 0.1383,
+    "Era match": 0.3108,
+    "Wareki Format Match": 0.3283,
+    "Year Format Match": 0.11,
+    "Other Mismatch": 0.0733,
+    "total": 1200
+  },
+  "3": {
+    "Full Match": 0.0308,
+    "Near Mismatch": 0.1425,
+    "Era match": 0.3325,
+    "Wareki Format Match": 0.3308,
+    "Year Format Match": 0.1042,
+    "Other Mismatch": 0.0592,
+    "total": 1200
+  },
+  "prompt_avg": {
+    "Full Match": 0.0378,
+    "Near Mismatch": 0.1478,
+    "Era match": 0.3358,
+    "Wareki Format Match": 0.3369,
+    "Year Format Match": 0.0867,
+    "Other Mismatch": 0.0589,
+    "total": 3600,
+    "model": "Llama-3-Swallow-8B-v0.1",
+    "prompt_number": "prompt_avg"
+  }
+}

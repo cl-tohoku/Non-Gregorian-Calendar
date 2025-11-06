@@ -1,0 +1,49 @@
+{
+  "1": {
+    "Full Match": 0.0133,
+    "Near Mismatch": 0.0533,
+    "Era match": 0.0533,
+    "Wareki Format Match": 0.84,
+    "Year Format Match": 0.0033,
+    "Other Mismatch": 0.0367,
+    "total": 300,
+    "model": "Llama-3-Swallow-8B-v0.1",
+    "prompt_number": 1,
+    "era": "taisho"
+  },
+  "2": {
+    "Full Match": 0.02,
+    "Near Mismatch": 0.0467,
+    "Era match": 0.1,
+    "Wareki Format Match": 0.76,
+    "Year Format Match": 0.0067,
+    "Other Mismatch": 0.0667,
+    "total": 300,
+    "model": "Llama-3-Swallow-8B-v0.1",
+    "prompt_number": 2,
+    "era": "taisho"
+  },
+  "3": {
+    "Full Match": 0.0133,
+    "Near Mismatch": 0.0333,
+    "Era match": 0.0533,
+    "Wareki Format Match": 0.8367,
+    "Year Format Match": 0.0033,
+    "Other Mismatch": 0.06,
+    "total": 300,
+    "model": "Llama-3-Swallow-8B-v0.1",
+    "prompt_number": 3,
+    "era": "taisho"
+  },
+  "prompt_avg": {
+    "Full Match": 0.0155,
+    "Near Mismatch": 0.0444,
+    "Era match": 0.0689,
+    "Wareki Format Match": 0.8122,
+    "Year Format Match": 0.0044,
+    "Other Mismatch": 0.0545,
+    "model": "Llama-3-Swallow-8B-v0.1",
+    "era": "taisho",
+    "total": 900
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "1": {
+    "Full Match": 0.09,
+    "Near Mismatch": 0.2333,
+    "Era match": 0.1833,
+    "Wareki Format Match": 0.43,
+    "Year Format Match": 0.0233,
+    "Other Mismatch": 0.04,
+    "total": 300,
+    "model": "llm-jp-3-13b",
+    "prompt_number": 1,
+    "era": "taisho"
+  },
+  "2": {
+    "Full Match": 0.09,
+    "Near Mismatch": 0.2467,
+    "Era match": 0.22,
+    "Wareki Format Match": 0.3733,
+    "Year Format Match": 0.0267,
+    "Other Mismatch": 0.0433,
+    "total": 300,
+    "model": "llm-jp-3-13b",
+    "prompt_number": 2,
+    "era": "taisho"
+  },
+  "3": {
+    "Full Match": 0.0967,
+    "Near Mismatch": 0.28,
+    "Era match": 0.2,
+    "Wareki Format Match": 0.3533,
+    "Year Format Match": 0.0267,
+    "Other Mismatch": 0.0433,
+    "total": 300,
+    "model": "llm-jp-3-13b",
+    "prompt_number": 3,
+    "era": "taisho"
+  },
+  "prompt_avg": {
+    "Full Match": 0.0922,
+    "Near Mismatch": 0.2533,
+    "Era match": 0.2011,
+    "Wareki Format Match": 0.3855,
+    "Year Format Match": 0.0256,
+    "Other Mismatch": 0.0422,
+    "model": "llm-jp-3-13b",
+    "era": "taisho",
+    "total": 900
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "1": {
+    "Full Match": 0.31,
+    "Near Mismatch": 0.23,
+    "Era match": 0.2267,
+    "Wareki Format Match": 0.0867,
+    "Year Format Match": 0.0033,
+    "Other Mismatch": 0.1467,
+    "total": 300,
+    "model": "deepseek-chat",
+    "prompt_number": 1,
+    "era": "showa"
+  },
+  "2": {
+    "Full Match": 0.31,
+    "Near Mismatch": 0.2167,
+    "Era match": 0.2667,
+    "Wareki Format Match": 0.12,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0867,
+    "total": 300,
+    "model": "deepseek-chat",
+    "prompt_number": 2,
+    "era": "showa"
+  },
+  "3": {
+    "Full Match": 0.2867,
+    "Near Mismatch": 0.2533,
+    "Era match": 0.28,
+    "Wareki Format Match": 0.1133,
+    "Year Format Match": 0.0067,
+    "Other Mismatch": 0.0667,
+    "total": 300,
+    "model": "deepseek-chat",
+    "prompt_number": 3,
+    "era": "showa"
+  },
+  "prompt_avg": {
+    "Full Match": 0.3022,
+    "Near Mismatch": 0.2333,
+    "Era match": 0.2578,
+    "Wareki Format Match": 0.1067,
+    "Year Format Match": 0.0033,
+    "Other Mismatch": 0.1,
+    "model": "deepseek-chat",
+    "era": "showa",
+    "total": 900
+  }
+}

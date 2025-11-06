@@ -1,0 +1,40 @@
+{
+  "1": {
+    "Full Match": 0.0575,
+    "Near Mismatch": 0.2,
+    "Era match": 0.3342,
+    "Wareki Format Match": 0.3692,
+    "Year Format Match": 0.0083,
+    "Other Mismatch": 0.0309,
+    "total": 1200
+  },
+  "2": {
+    "Full Match": 0.0508,
+    "Near Mismatch": 0.1525,
+    "Era match": 0.3275,
+    "Wareki Format Match": 0.3208,
+    "Year Format Match": 0.125,
+    "Other Mismatch": 0.0234,
+    "total": 1200
+  },
+  "3": {
+    "Full Match": 0.0567,
+    "Near Mismatch": 0.1767,
+    "Era match": 0.3233,
+    "Wareki Format Match": 0.3492,
+    "Year Format Match": 0.0692,
+    "Other Mismatch": 0.025,
+    "total": 1200
+  },
+  "prompt_avg": {
+    "Full Match": 0.055,
+    "Near Mismatch": 0.1764,
+    "Era match": 0.3283,
+    "Wareki Format Match": 0.3464,
+    "Year Format Match": 0.0675,
+    "Other Mismatch": 0.0264,
+    "total": 3600,
+    "model": "sarashina2-13b",
+    "prompt_number": "prompt_avg"
+  }
+}

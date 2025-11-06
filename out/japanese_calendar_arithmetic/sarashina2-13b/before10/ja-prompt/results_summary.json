@@ -1,0 +1,150 @@
+{
+  "per_prompt": {
+    "1": {
+      "taisho": {
+        "gengo_match": 1,
+        "almost_match": 0.15,
+        "year_match": 0.006
+      },
+      "showa": {
+        "gengo_match": 0.75,
+        "almost_match": 0,
+        "year_match": 0
+      },
+      "heisei": {
+        "gengo_match": 1,
+        "almost_match": 0.006,
+        "year_match": 0
+      },
+      "reiwa": {
+        "gengo_match": 1,
+        "almost_match": 0.992,
+        "year_match": 0.992
+      }
+    },
+    "2": {
+      "taisho": {
+        "gengo_match": 1,
+        "almost_match": 0,
+        "year_match": 0
+      },
+      "showa": {
+        "gengo_match": 0.77,
+        "almost_match": 0,
+        "year_match": 0
+      },
+      "heisei": {
+        "gengo_match": 1,
+        "almost_match": 0,
+        "year_match": 0
+      },
+      "reiwa": {
+        "gengo_match": 1,
+        "almost_match": 0.926,
+        "year_match": 0.926
+      }
+    },
+    "3": {
+      "taisho": {
+        "gengo_match": 1,
+        "almost_match": 0.164,
+        "year_match": 0
+      },
+      "showa": {
+        "gengo_match": 0.562,
+        "almost_match": 0,
+        "year_match": 0
+      },
+      "heisei": {
+        "gengo_match": 0.976,
+        "almost_match": 0,
+        "year_match": 0
+      },
+      "reiwa": {
+        "gengo_match": 1,
+        "almost_match": 0.896,
+        "year_match": 0.896
+      }
+    }
+  },
+  "average_scores": {
+    "taisho": {
+      "gengo_match": 1,
+      "almost_match": 0.10466666666666667,
+      "year_match": 0.002
+    },
+    "showa": {
+      "gengo_match": 0.6940000000000001,
+      "almost_match": 0,
+      "year_match": 0
+    },
+    "heisei": {
+      "gengo_match": 0.992,
+      "almost_match": 0.002,
+      "year_match": 0
+    },
+    "reiwa": {
+      "gengo_match": 1,
+      "almost_match": 0.9380000000000001,
+      "year_match": 0.9380000000000001
+    }
+  },
+  "best_prompt_per_metric": {
+    "taisho": {
+      "gengo_match": [
+        "1",
+        1
+      ],
+      "almost_match": [
+        "3",
+        0.164
+      ],
+      "year_match": [
+        "1",
+        0.006
+      ]
+    },
+    "showa": {
+      "gengo_match": [
+        "2",
+        0.77
+      ],
+      "almost_match": [
+        "1",
+        0
+      ],
+      "year_match": [
+        "1",
+        0
+      ]
+    },
+    "heisei": {
+      "gengo_match": [
+        "1",
+        1
+      ],
+      "almost_match": [
+        "1",
+        0.006
+      ],
+      "year_match": [
+        "1",
+        0
+      ]
+    },
+    "reiwa": {
+      "gengo_match": [
+        "1",
+        1
+      ],
+      "almost_match": [
+        "1",
+        0.992
+      ],
+      "year_match": [
+        "1",
+        0.992
+      ]
+    }
+  }
+}

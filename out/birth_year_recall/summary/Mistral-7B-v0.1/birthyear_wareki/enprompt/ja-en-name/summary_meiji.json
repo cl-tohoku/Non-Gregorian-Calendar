@@ -1,0 +1,49 @@
+{
+  "1": {
+    "Full Match": 0.0067,
+    "Near Mismatch": 0.05,
+    "Era match": 0.3833,
+    "Wareki Format Match": 0.56,
+    "Year Format Match": 0.0033,
+    "Other Mismatch": 0.0,
+    "total": 300,
+    "model": "Mistral-7B-v0.1",
+    "prompt_number": 1,
+    "era": "meiji"
+  },
+  "2": {
+    "Full Match": 0.01,
+    "Near Mismatch": 0.0467,
+    "Era match": 0.4067,
+    "Wareki Format Match": 0.5367,
+    "Year Format Match": 0.0033,
+    "Other Mismatch": 0.0,
+    "total": 300,
+    "model": "Mistral-7B-v0.1",
+    "prompt_number": 2,
+    "era": "meiji"
+  },
+  "3": {
+    "Full Match": 0.0,
+    "Near Mismatch": 0.02,
+    "Era match": 0.1867,
+    "Wareki Format Match": 0.7933,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0,
+    "total": 300,
+    "model": "Mistral-7B-v0.1",
+    "prompt_number": 3,
+    "era": "meiji"
+  },
+  "prompt_avg": {
+    "Full Match": 0.0056,
+    "Near Mismatch": 0.0389,
+    "Era match": 0.3256,
+    "Wareki Format Match": 0.63,
+    "Year Format Match": 0.0022,
+    "Other Mismatch": 0.0,
+    "model": "Mistral-7B-v0.1",
+    "era": "meiji",
+    "total": 900
+  }
+}

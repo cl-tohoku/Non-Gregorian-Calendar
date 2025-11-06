@@ -1,0 +1,122 @@
+{
+  "per_prompt": {
+    "1": {
+      "total": 2000,
+      "error": 420,
+      "error_rate": 0.21,
+      "per_era": {
+        "meiji": {
+          "total": 500,
+          "error": 0,
+          "error_rate": 0.0
+        },
+        "taisho": {
+          "total": 500,
+          "error": 0,
+          "error_rate": 0.0
+        },
+        "showa": {
+          "total": 500,
+          "error": 0,
+          "error_rate": 0.0
+        },
+        "heisei": {
+          "total": 500,
+          "error": 420,
+          "error_rate": 0.84
+        }
+      }
+    },
+    "2": {
+      "total": 2000,
+      "error": 420,
+      "error_rate": 0.21,
+      "per_era": {
+        "meiji": {
+          "total": 500,
+          "error": 0,
+          "error_rate": 0.0
+        },
+        "taisho": {
+          "total": 500,
+          "error": 0,
+          "error_rate": 0.0
+        },
+        "showa": {
+          "total": 500,
+          "error": 0,
+          "error_rate": 0.0
+        },
+        "heisei": {
+          "total": 500,
+          "error": 420,
+          "error_rate": 0.84
+        }
+      }
+    },
+    "3": {
+      "total": 2000,
+      "error": 454,
+      "error_rate": 0.227,
+      "per_era": {
+        "meiji": {
+          "total": 500,
+          "error": 0,
+          "error_rate": 0.0
+        },
+        "taisho": {
+          "total": 500,
+          "error": 1,
+          "error_rate": 0.002
+        },
+        "showa": {
+          "total": 500,
+          "error": 24,
+          "error_rate": 0.048
+        },
+        "heisei": {
+          "total": 500,
+          "error": 429,
+          "error_rate": 0.858
+        }
+      }
+    }
+  },
+  "total_eval": 6000,
+  "total_error": 1294,
+  "average_error_rate": 0.21566666666666667,
+  "average_error_rate_per_era": {
+    "meiji": 0.0,
+    "taisho": 0.0006666666666666666,
+    "showa": 0.016,
+    "heisei": 0.846
+  },
+  "min_error_prompt": "1",
+  "min_error_prompt_stats": {
+    "total": 2000,
+    "error": 420,
+    "error_rate": 0.21,
+    "per_era": {
+      "meiji": {
+        "total": 500,
+        "error": 0,
+        "error_rate": 0.0
+      },
+      "taisho": {
+        "total": 500,
+        "error": 0,
+        "error_rate": 0.0
+      },
+      "showa": {
+        "total": 500,
+        "error": 0,
+        "error_rate": 0.0
+      },
+      "heisei": {
+        "total": 500,
+        "error": 420,
+        "error_rate": 0.84
+      }
+    }
+  }
+}

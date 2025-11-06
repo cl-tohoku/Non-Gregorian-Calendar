@@ -1,0 +1,82 @@
+{
+  "wareki": {
+    "correct": 155,
+    "total": 155,
+    "format_match": 155,
+    "accuracy": 1.0,
+    "format_rate": 1.0
+  },
+  "seireki": {
+    "correct": 153,
+    "total": 155,
+    "format_match": 155,
+    "accuracy": 0.9871,
+    "format_rate": 1.0
+  },
+  "per_era": {
+    "heisei": {
+      "wareki": {
+        "correct": 31,
+        "total": 31,
+        "format_match": 31,
+        "accuracy": 1.0,
+        "format_rate": 1.0
+      },
+      "seireki": {
+        "correct": 31,
+        "total": 31,
+        "format_match": 31,
+        "accuracy": 1.0,
+        "format_rate": 1.0
+      }
+    },
+    "meiji": {
+      "wareki": {
+        "correct": 45,
+        "total": 45,
+        "format_match": 45,
+        "accuracy": 1.0,
+        "format_rate": 1.0
+      },
+      "seireki": {
+        "correct": 44,
+        "total": 45,
+        "format_match": 45,
+        "accuracy": 0.9778,
+        "format_rate": 1.0
+      }
+    },
+    "showa": {
+      "wareki": {
+        "correct": 64,
+        "total": 64,
+        "format_match": 64,
+        "accuracy": 1.0,
+        "format_rate": 1.0
+      },
+      "seireki": {
+        "correct": 63,
+        "total": 64,
+        "format_match": 64,
+        "accuracy": 0.9844,
+        "format_rate": 1.0
+      }
+    },
+    "taisho": {
+      "wareki": {
+        "correct": 15,
+        "total": 15,
+        "format_match": 15,
+        "accuracy": 1.0,
+        "format_rate": 1.0
+      },
+      "seireki": {
+        "correct": 15,
+        "total": 15,
+        "format_match": 15,
+        "accuracy": 1.0,
+        "format_rate": 1.0
+      }
+    }
+  }
+}

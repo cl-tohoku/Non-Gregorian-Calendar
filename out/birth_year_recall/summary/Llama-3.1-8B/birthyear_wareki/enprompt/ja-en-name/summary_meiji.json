@@ -1,0 +1,49 @@
+{
+  "1": {
+    "Full Match": 0.0067,
+    "Near Mismatch": 0.06,
+    "Era match": 0.51,
+    "Wareki Format Match": 0.4233,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0,
+    "total": 300,
+    "model": "Llama-3.1-8B",
+    "prompt_number": 1,
+    "era": "meiji"
+  },
+  "2": {
+    "Full Match": 0.0033,
+    "Near Mismatch": 0.0633,
+    "Era match": 0.49,
+    "Wareki Format Match": 0.4433,
+    "Year Format Match": 0.0033,
+    "Other Mismatch": 0.0,
+    "total": 300,
+    "model": "Llama-3.1-8B",
+    "prompt_number": 2,
+    "era": "meiji"
+  },
+  "3": {
+    "Full Match": 0.0033,
+    "Near Mismatch": 0.0367,
+    "Era match": 0.3133,
+    "Wareki Format Match": 0.6467,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0,
+    "total": 300,
+    "model": "Llama-3.1-8B",
+    "prompt_number": 3,
+    "era": "meiji"
+  },
+  "prompt_avg": {
+    "Full Match": 0.0044,
+    "Near Mismatch": 0.0533,
+    "Era match": 0.4378,
+    "Wareki Format Match": 0.5044,
+    "Year Format Match": 0.0011,
+    "Other Mismatch": 0.0,
+    "model": "Llama-3.1-8B",
+    "era": "meiji",
+    "total": 900
+  }
+}

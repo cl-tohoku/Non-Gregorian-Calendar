@@ -2,7 +2,6 @@ import argparse
 
 import conversion_deepseekv3_en
 import conversion_deepseekv3_ja
-import conversion_plot
 
 
 def main():

@@ -1,0 +1,49 @@
+{
+  "1": {
+    "Full Match": 0.02,
+    "Near Mismatch": 0.09,
+    "Era match": 0.5167,
+    "Wareki Format Match": 0.2867,
+    "Year Format Match": 0.0067,
+    "Other Mismatch": 0.08,
+    "total": 300,
+    "model": "Swallow-MS-7b-v0.1",
+    "prompt_number": 1,
+    "era": "meiji"
+  },
+  "2": {
+    "Full Match": 0.0267,
+    "Near Mismatch": 0.0733,
+    "Era match": 0.5233,
+    "Wareki Format Match": 0.27,
+    "Year Format Match": 0.0233,
+    "Other Mismatch": 0.0833,
+    "total": 300,
+    "model": "Swallow-MS-7b-v0.1",
+    "prompt_number": 2,
+    "era": "meiji"
+  },
+  "3": {
+    "Full Match": 0.0167,
+    "Near Mismatch": 0.1033,
+    "Era match": 0.4933,
+    "Wareki Format Match": 0.2967,
+    "Year Format Match": 0.0233,
+    "Other Mismatch": 0.0667,
+    "total": 300,
+    "model": "Swallow-MS-7b-v0.1",
+    "prompt_number": 3,
+    "era": "meiji"
+  },
+  "prompt_avg": {
+    "Full Match": 0.0211,
+    "Near Mismatch": 0.0889,
+    "Era match": 0.5111,
+    "Wareki Format Match": 0.2845,
+    "Year Format Match": 0.0178,
+    "Other Mismatch": 0.0767,
+    "model": "Swallow-MS-7b-v0.1",
+    "era": "meiji",
+    "total": 900
+  }
+}

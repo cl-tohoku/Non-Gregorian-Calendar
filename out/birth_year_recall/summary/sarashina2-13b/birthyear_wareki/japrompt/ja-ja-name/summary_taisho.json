@@ -1,0 +1,49 @@
+{
+  "1": {
+    "Full Match": 0.01,
+    "Near Mismatch": 0.0367,
+    "Era match": 0.01,
+    "Wareki Format Match": 0.9,
+    "Year Format Match": 0.0067,
+    "Other Mismatch": 0.0367,
+    "total": 300,
+    "model": "sarashina2-13b",
+    "prompt_number": 1,
+    "era": "taisho"
+  },
+  "2": {
+    "Full Match": 0.0167,
+    "Near Mismatch": 0.0467,
+    "Era match": 0.0267,
+    "Wareki Format Match": 0.8733,
+    "Year Format Match": 0.0067,
+    "Other Mismatch": 0.03,
+    "total": 300,
+    "model": "sarashina2-13b",
+    "prompt_number": 2,
+    "era": "taisho"
+  },
+  "3": {
+    "Full Match": 0.0067,
+    "Near Mismatch": 0.0333,
+    "Era match": 0.0233,
+    "Wareki Format Match": 0.8967,
+    "Year Format Match": 0.0067,
+    "Other Mismatch": 0.0333,
+    "total": 300,
+    "model": "sarashina2-13b",
+    "prompt_number": 3,
+    "era": "taisho"
+  },
+  "prompt_avg": {
+    "Full Match": 0.0111,
+    "Near Mismatch": 0.0389,
+    "Era match": 0.02,
+    "Wareki Format Match": 0.89,
+    "Year Format Match": 0.0067,
+    "Other Mismatch": 0.0333,
+    "model": "sarashina2-13b",
+    "era": "taisho",
+    "total": 900
+  }
+}

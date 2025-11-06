@@ -1,0 +1,40 @@
+{
+  "1": {
+    "Full Match": 0.0233,
+    "Near Mismatch": 0.1225,
+    "Era match": 0.3433,
+    "Wareki Format Match": 0.45,
+    "Year Format Match": 0.0192,
+    "Other Mismatch": 0.0417,
+    "total": 1200
+  },
+  "2": {
+    "Full Match": 0.0217,
+    "Near Mismatch": 0.1017,
+    "Era match": 0.2733,
+    "Wareki Format Match": 0.4325,
+    "Year Format Match": 0.11,
+    "Other Mismatch": 0.0608,
+    "total": 1200
+  },
+  "3": {
+    "Full Match": 0.0175,
+    "Near Mismatch": 0.1192,
+    "Era match": 0.2792,
+    "Wareki Format Match": 0.4375,
+    "Year Format Match": 0.1066,
+    "Other Mismatch": 0.04,
+    "total": 1200
+  },
+  "prompt_avg": {
+    "Full Match": 0.0208,
+    "Near Mismatch": 0.1145,
+    "Era match": 0.2986,
+    "Wareki Format Match": 0.44,
+    "Year Format Match": 0.0786,
+    "Other Mismatch": 0.0475,
+    "total": 3600,
+    "model": "Swallow-MS-7b-v0.1",
+    "prompt_number": "prompt_avg"
+  }
+}

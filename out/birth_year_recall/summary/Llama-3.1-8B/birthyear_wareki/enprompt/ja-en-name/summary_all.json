@@ -1,0 +1,40 @@
+{
+  "1": {
+    "Full Match": 0.0058,
+    "Near Mismatch": 0.0742,
+    "Era match": 0.3383,
+    "Wareki Format Match": 0.5817,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0,
+    "total": 1200
+  },
+  "2": {
+    "Full Match": 0.005,
+    "Near Mismatch": 0.0675,
+    "Era match": 0.3175,
+    "Wareki Format Match": 0.61,
+    "Year Format Match": 0.0033,
+    "Other Mismatch": 0.0,
+    "total": 1200
+  },
+  "3": {
+    "Full Match": 0.0016,
+    "Near Mismatch": 0.015,
+    "Era match": 0.0925,
+    "Wareki Format Match": 0.8908,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0,
+    "total": 1200
+  },
+  "prompt_avg": {
+    "Full Match": 0.0041,
+    "Near Mismatch": 0.0522,
+    "Era match": 0.2494,
+    "Wareki Format Match": 0.6942,
+    "Year Format Match": 0.0011,
+    "Other Mismatch": 0.0,
+    "total": 3600,
+    "model": "Llama-3.1-8B",
+    "prompt_number": "prompt_avg"
+  }
+}

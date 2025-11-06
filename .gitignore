@@ -1,6 +1,3 @@
-out
-
-
 .vscode/
 .env
 .venv
@@ -11,7 +8,7 @@ out
 .DS_Store
 .vscode
 
-
+pyproject.toml
 __pycache__
 
 uv.lock

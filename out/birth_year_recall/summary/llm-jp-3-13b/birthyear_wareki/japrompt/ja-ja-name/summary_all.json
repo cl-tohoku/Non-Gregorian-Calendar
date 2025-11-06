@@ -1,0 +1,40 @@
+{
+  "1": {
+    "Full Match": 0.0875,
+    "Near Mismatch": 0.2317,
+    "Era match": 0.2767,
+    "Wareki Format Match": 0.2867,
+    "Year Format Match": 0.0616,
+    "Other Mismatch": 0.0558,
+    "total": 1200
+  },
+  "2": {
+    "Full Match": 0.0792,
+    "Near Mismatch": 0.2492,
+    "Era match": 0.2308,
+    "Wareki Format Match": 0.24,
+    "Year Format Match": 0.13,
+    "Other Mismatch": 0.0708,
+    "total": 1200
+  },
+  "3": {
+    "Full Match": 0.0775,
+    "Near Mismatch": 0.2292,
+    "Era match": 0.2275,
+    "Wareki Format Match": 0.2408,
+    "Year Format Match": 0.1584,
+    "Other Mismatch": 0.0667,
+    "total": 1200
+  },
+  "prompt_avg": {
+    "Full Match": 0.0814,
+    "Near Mismatch": 0.2367,
+    "Era match": 0.245,
+    "Wareki Format Match": 0.2558,
+    "Year Format Match": 0.1167,
+    "Other Mismatch": 0.0644,
+    "total": 3600,
+    "model": "llm-jp-3-13b",
+    "prompt_number": "prompt_avg"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "average_scores": {
+    "full_match_rate": 0.011111111111111112,
+    "tolerance_match_rate": 0.0811111111111111,
+    "format_match_rate": 0.8955555555555555,
+    "gengo_match_rate": 0.5688888888888889
+  },
+  "max_scores": {
+    "full_match_rate": {
+      "value": 0.013333333333333334,
+      "prompt_numbers": [
+        "3"
+      ]
+    },
+    "tolerance_match_rate": {
+      "value": 0.09,
+      "prompt_numbers": [
+        "3"
+      ]
+    },
+    "format_match_rate": {
+      "value": 0.9633333333333334,
+      "prompt_numbers": [
+        "1"
+      ]
+    },
+    "gengo_match_rate": {
+      "value": 0.5733333333333334,
+      "prompt_numbers": [
+        "3"
+      ]
+    }
+  },
+  "all_prompt_metrics": {
+    "1": {
+      "num_samples": 300,
+      "full_match_rate": 0.01,
+      "tolerance_match_rate": 0.07333333333333333,
+      "format_match_rate": 0.9633333333333334,
+      "gengo_match_rate": 0.57
+    },
+    "2": {
+      "num_samples": 300,
+      "full_match_rate": 0.01,
+      "tolerance_match_rate": 0.08,
+      "format_match_rate": 0.8733333333333333,
+      "gengo_match_rate": 0.5633333333333334
+    },
+    "3": {
+      "num_samples": 300,
+      "full_match_rate": 0.013333333333333334,
+      "tolerance_match_rate": 0.09,
+      "format_match_rate": 0.85,
+      "gengo_match_rate": 0.5733333333333334
+    }
+  }
+}

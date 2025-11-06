@@ -57,7 +57,7 @@ def generate_batch(prompts, api_key, api_url, model, max_new_tokens=32):
             res = call_deepseek(prompt, api_key, api_url, model, max_new_tokens)
             results.append(res.split("\n")[0])
         except Exception as e:
-            print(f"エラー: {e}")
+            print(f"error: {e}")
             results.append("")
     return results
 

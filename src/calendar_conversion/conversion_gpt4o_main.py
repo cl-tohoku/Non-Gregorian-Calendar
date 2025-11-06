@@ -2,7 +2,6 @@ import argparse
 
 import conversion_gpt4o_en
 import conversion_gpt4o_ja
-import conversion_plot
 
 
 def main():

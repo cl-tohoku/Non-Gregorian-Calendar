@@ -1,0 +1,29 @@
+{
+  "prompts": {
+    "1": {
+      "total": 105,
+      "exact": 83,
+      "tolerance": 93,
+      "exact_ratio": 0.7904761904761904,
+      "tolerance_ratio": 0.8857142857142857
+    },
+    "2": {
+      "total": 95,
+      "exact": 72,
+      "tolerance": 84,
+      "exact_ratio": 0.7578947368421053,
+      "tolerance_ratio": 0.8842105263157894
+    },
+    "3": {
+      "total": 93,
+      "exact": 70,
+      "tolerance": 86,
+      "exact_ratio": 0.7526881720430108,
+      "tolerance_ratio": 0.9247311827956989
+    }
+  },
+  "average_exact_ratio": 0.767019699787102,
+  "average_tolerance_ratio": 0.8982186649419247,
+  "most_consistent_prompt": "3",
+  "max_tolerance_ratio": 0.9247311827956989
+}

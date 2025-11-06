@@ -1,0 +1,40 @@
+{
+  "1": {
+    "Full Match": 0.0508,
+    "Near Mismatch": 0.1758,
+    "Era match": 0.3367,
+    "Wareki Format Match": 0.4058,
+    "Year Format Match": 0.005,
+    "Other Mismatch": 0.0258,
+    "total": 1200
+  },
+  "2": {
+    "Full Match": 0.0508,
+    "Near Mismatch": 0.1616,
+    "Era match": 0.2675,
+    "Wareki Format Match": 0.2825,
+    "Year Format Match": 0.2208,
+    "Other Mismatch": 0.0167,
+    "total": 1200
+  },
+  "3": {
+    "Full Match": 0.05,
+    "Near Mismatch": 0.1642,
+    "Era match": 0.2959,
+    "Wareki Format Match": 0.2892,
+    "Year Format Match": 0.1858,
+    "Other Mismatch": 0.015,
+    "total": 1200
+  },
+  "prompt_avg": {
+    "Full Match": 0.0505,
+    "Near Mismatch": 0.1672,
+    "Era match": 0.3,
+    "Wareki Format Match": 0.3258,
+    "Year Format Match": 0.1372,
+    "Other Mismatch": 0.0192,
+    "total": 3600,
+    "model": "Swallow-13b-hf",
+    "prompt_number": "prompt_avg"
+  }
+}

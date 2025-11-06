@@ -1,0 +1,150 @@
+{
+  "per_prompt": {
+    "1": {
+      "meiji": {
+        "gengo_match": 1,
+        "almost_match": 0.012,
+        "year_match": 0
+      },
+      "taisho": {
+        "gengo_match": 1,
+        "almost_match": 0.004,
+        "year_match": 0
+      },
+      "showa": {
+        "gengo_match": 1,
+        "almost_match": 0.964,
+        "year_match": 0.964
+      },
+      "heisei": {
+        "gengo_match": 0.444,
+        "almost_match": 0.826,
+        "year_match": 0.27
+      }
+    },
+    "2": {
+      "meiji": {
+        "gengo_match": 0.924,
+        "almost_match": 0,
+        "year_match": 0
+      },
+      "taisho": {
+        "gengo_match": 1,
+        "almost_match": 0.004,
+        "year_match": 0
+      },
+      "showa": {
+        "gengo_match": 1,
+        "almost_match": 0.992,
+        "year_match": 0.99
+      },
+      "heisei": {
+        "gengo_match": 1,
+        "almost_match": 0.818,
+        "year_match": 0.818
+      }
+    },
+    "3": {
+      "meiji": {
+        "gengo_match": 0.97,
+        "almost_match": 0.002,
+        "year_match": 0
+      },
+      "taisho": {
+        "gengo_match": 1,
+        "almost_match": 0.022,
+        "year_match": 0
+      },
+      "showa": {
+        "gengo_match": 1,
+        "almost_match": 0.968,
+        "year_match": 0.968
+      },
+      "heisei": {
+        "gengo_match": 0.286,
+        "almost_match": 0.866,
+        "year_match": 0.152
+      }
+    }
+  },
+  "average_scores": {
+    "meiji": {
+      "gengo_match": 0.9646666666666667,
+      "almost_match": 0.004666666666666667,
+      "year_match": 0
+    },
+    "taisho": {
+      "gengo_match": 1,
+      "almost_match": 0.01,
+      "year_match": 0
+    },
+    "showa": {
+      "gengo_match": 1,
+      "almost_match": 0.9746666666666667,
+      "year_match": 0.974
+    },
+    "heisei": {
+      "gengo_match": 0.5766666666666667,
+      "almost_match": 0.8366666666666667,
+      "year_match": 0.41333333333333333
+    }
+  },
+  "best_prompt_per_metric": {
+    "meiji": {
+      "gengo_match": [
+        "1",
+        1
+      ],
+      "almost_match": [
+        "1",
+        0.012
+      ],
+      "year_match": [
+        "1",
+        0
+      ]
+    },
+    "taisho": {
+      "gengo_match": [
+        "1",
+        1
+      ],
+      "almost_match": [
+        "3",
+        0.022
+      ],
+      "year_match": [
+        "1",
+        0
+      ]
+    },
+    "showa": {
+      "gengo_match": [
+        "1",
+        1
+      ],
+      "almost_match": [
+        "2",
+        0.992
+      ],
+      "year_match": [
+        "2",
+        0.99
+      ]
+    },
+    "heisei": {
+      "gengo_match": [
+        "2",
+        1
+      ],
+      "almost_match": [
+        "3",
+        0.866
+      ],
+      "year_match": [
+        "2",
+        0.818
+      ]
+    }
+  }
+}

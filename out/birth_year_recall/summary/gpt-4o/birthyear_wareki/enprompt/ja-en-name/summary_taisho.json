@@ -1,0 +1,49 @@
+{
+  "1": {
+    "Full Match": 0.0667,
+    "Near Mismatch": 0.23,
+    "Era match": 0.3333,
+    "Wareki Format Match": 0.3667,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0033,
+    "total": 300,
+    "model": "gpt-4o",
+    "prompt_number": 1,
+    "era": "taisho"
+  },
+  "2": {
+    "Full Match": 0.05,
+    "Near Mismatch": 0.24,
+    "Era match": 0.3167,
+    "Wareki Format Match": 0.3467,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0467,
+    "total": 300,
+    "model": "gpt-4o",
+    "prompt_number": 2,
+    "era": "taisho"
+  },
+  "3": {
+    "Full Match": 0.04,
+    "Near Mismatch": 0.21,
+    "Era match": 0.3067,
+    "Wareki Format Match": 0.43,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0133,
+    "total": 300,
+    "model": "gpt-4o",
+    "prompt_number": 3,
+    "era": "taisho"
+  },
+  "prompt_avg": {
+    "Full Match": 0.0522,
+    "Near Mismatch": 0.2267,
+    "Era match": 0.3189,
+    "Wareki Format Match": 0.3811,
+    "Year Format Match": 0.0,
+    "Other Mismatch": 0.0211,
+    "model": "gpt-4o",
+    "era": "taisho",
+    "total": 900
+  }
+}
